@@ -1,6 +1,3 @@
-
-> Open this page at [https://freetechdownloads.github.io/clap-then-lights/](https://freetechdownloads.github.io/clap-then-lights/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -17,8 +14,3 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/freetechdownloads/clap-then-lights** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
